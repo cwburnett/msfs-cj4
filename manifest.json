@@ -1,0 +1,20 @@
+{
+  "dependencies": [
+    {
+      "name": "asobo-aircraft-cj4",
+      "package_version": "0.1.38"
+    }
+  ],
+  "content_type": "AIRCRAFT",
+  "title": "cwburnett-cj4",
+  "manufacturer": "Textron Aviation",
+  "creator": "CWBurnett",
+  "package_version": "0.1.38",
+  "minimum_game_version": "1.7.12",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}
